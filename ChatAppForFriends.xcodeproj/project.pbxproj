@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 56;
+	objectVersion = 55;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -56,6 +56,8 @@
 		9A4B88B32963380A00947B1D /* ChatAppForFriends */ = {
 			isa = PBXGroup;
 			children = (
+				9A4B88C929633C8200947B1D /* new */,
+				9A4B88C829633C7B00947B1D /* ViewControllers */,
 				9A4B88B42963380A00947B1D /* AppDelegate.swift */,
 				9A4B88B62963380A00947B1D /* SceneDelegate.swift */,
 				9A4B88B82963380B00947B1D /* ViewController.swift */,
@@ -65,6 +67,20 @@
 				9A4B88C22963380D00947B1D /* Info.plist */,
 			);
 			path = ChatAppForFriends;
+			sourceTree = "<group>";
+		};
+		9A4B88C829633C7B00947B1D /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ViewControllers;
+			sourceTree = "<group>";
+		};
+		9A4B88C929633C8200947B1D /* new */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = new;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -103,7 +119,7 @@
 				};
 			};
 			buildConfigurationList = 9A4B88AC2963380A00947B1D /* Build configuration list for PBXProject "ChatAppForFriends" */;
-			compatibilityVersion = "Xcode 14.0";
+			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (

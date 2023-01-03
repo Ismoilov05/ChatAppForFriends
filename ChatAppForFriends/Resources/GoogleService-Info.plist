@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1095900832536-ii5tbmmbjat3112ebk8489n5175fr074.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1095900832536-ii5tbmmbjat3112ebk8489n5175fr074</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBwmgerdnTJyVE7MT9Npbma8HJ1zH2FnWk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1095900832536</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>MuhammadQodir.ChatAppForFriends</string>
+	<key>PROJECT_ID</key>
+	<string>chatforfriends-69e5f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chatforfriends-69e5f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1095900832536:ios:b3047790cfaea55b36346d</string>
+</dict>
+</plist>
